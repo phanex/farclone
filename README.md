@@ -132,12 +132,7 @@ After exiting rclone config with 'q', the console window should close automatica
 
 ## Screenshots
 
-<!-- Add screenshot here: ![Rclone Panel Menu](screenshot.png) -->
-
-To add screenshot:
-1. Take screenshot of the remotes menu
-2. Save as `screenshot.png` in repository
-3. Uncomment the line above
+![Rclone Panel Menu](screenshot.png)
 
 ## License
 
