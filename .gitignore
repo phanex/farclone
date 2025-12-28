@@ -1,0 +1,15 @@
+# User-specific scratch directory
+scratch/
+
+# Gemini session state file
+gemini.md
+
+# Common temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
