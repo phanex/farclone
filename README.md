@@ -62,7 +62,7 @@ Edit the variables at the top of the `.lua` file you are using (`farclone-menu.l
 ```lua
 -- Configuration (use \\ for paths in Windows)
 local RclonePath = "C:\\path\\to\\rclone\\rclone.exe"
-local ConfigPath = ""  -- e.g., "C:\\Users\\You\\.config\\rclone\\rclone.conf"
+local ConfigPath = ""  -- e.g., "C:\\Users\\You\\AppData\\Roaming\\rclone\\rclone.conf"
 local Timeout = 10     -- Server timeout in minutes
 -- ...and other server settings.
 ```
@@ -91,6 +91,10 @@ Another application is using the script's configured ports. Either:
 
 After exiting rclone config with 'q', the console window should close automatically. If it doesn't, press Enter or close it manually.
 
+## Screenshots
+
+![Rclone Panel Menu](screenshot.png)
+
 ## License
 
 MIT
@@ -98,3 +102,13 @@ MIT
 ## Author
 
 Developed with AI assistance.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues and pull requests.
+
+## Links
+
+- [Rclone Documentation](https://rclone.org/docs/)
+- [Far Manager](https://www.farmanager.com/)
+- [NetBox Plugin](https://github.com/michaellukashov/Far-NetBox)
